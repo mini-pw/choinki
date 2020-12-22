@@ -37,7 +37,7 @@ Source codes: https://github.com/mini-pw/2021Z-DataVisualizationTechniques
 <img height=400 src="choinki_2020/Stando_Adrian/animation.gif"/> 
 <img height=400 src="choinki_2020/SzymonSzmajdziski/choinka.gif"/> 
 <img height=400 src="choinki_2020/Szymon_Recko/KappaTree.png"/> 
-<img height=400 src="choinki_2020/Tomasz_Krupinski/choinka.png."/> 
+<img height=400 src="choinki_2020/Tomasz_Krupinski/choinka.png"/> 
 <img height=400 src="choinki_2020/yevhenii_vinichenko/choinka.gif"/> 
 
 
