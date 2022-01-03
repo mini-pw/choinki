@@ -2,6 +2,69 @@
 
 Wykonane w ramach Technik Wizualizacji Danych
 
+## TWD 2021
+
+Source codes: https://github.com/mini-pw/2022Z-DataVisualizationTechniques
+
+
+<img height=400 src="choinki_2021/AndrzejczukMaja/choinka.png"/> 
+<img height=400 src="choinki_2021/BarcinskiTymoteusz/tree.png"/> 
+<img height=400 src="choinki_2021/BieleckiPiotr/choineczka.gif"/>
+<img height=400 src="choinki_2021/BorowskiMateusz/bubble_tree.png"/>  
+<img height=400 src="choinki_2021/BujakowskiHubert/choinka.png"/>
+<img height=400 src="choinki_2021/FranczakKinga/choinka.gif"/>  
+<img height=400 src="choinki_2021/FlisMateusz/choinka.png"/>
+<img height=400 src="choinki_2021/GalkowskiMikolaj/wordcloud.png"/> 
+<img height=400 src="choinki_2021/GelarPawel/choinka.gif"/> 
+<img height=400 src="choinki_2021/GlinkaZuzanna/choinka.gif"/> 
+<img height=400 src="choinki_2021/GromadzkiMichał/Tree.png"/> 
+<img height=400 src="choinki_2021/GrzegorzZbrzezny/Choinka.gif"/> 
+<img height=400 src="choinki_2021/HoangLaura/choinka.gif"/>
+<img height=400 src="choinki_2021/JakubowskiWiktor/tree.png"/>
+<img height=400 src="choinki_2021/KajkaJoanna/choinka.png"/> 
+<img height=400 src="choinki_2021/KasprzakJakub/catmas.png"/> 
+<img height=400 src="choinki_2021/KaznowskaJulia/KaznowskaJuliaHw7Tree.gif"/>
+<img height=400 src="choinki_2021/KedzierskiDominik/choinka.png"/> 
+<img height=400 src="choinki_2021/KiersnowskiGrzegorz/choinka.png"/>
+<img height=400 src="choinki_2021/KniazArkadiusz/tree.png"/> 
+<img height=400 src="choinki_2021/KopytAgata/choinka.gif"/>
+<img height=400 src="choinki_2021/KosiukWojciech/silvertree.png"/>
+<img height=400 src="choinki_2021/KotlinskaZuzanna/christmas_tree_hw7.png"/>
+<img height=400 src="choinki_2021/KozubekHubert/tree.png"/>
+<img height=400 src="choinki_2021/KrezelJan/christmasTree.gif"/> 
+<img height=400 src="choinki_2021/MajczykAdam/ChoinkaAdamMajczykV2.png"/> 
+<img height=400 src="choinki_2021/MalinowskiAleksander/drzewko.gif"/>
+<img height=400 src="choinki_2021/MatuszewskiSzymon/XmasTree.gif"/>
+<img height=400 src="choinki_2021/MazurykMichal/choinka2.2.gif"/> 
+<img height=400 src="choinki_2021/MiszalskaNikola/choinka.gif"/> 
+<img height=400 src="choinki_2021/OrslowskiMaciej/tree.png"/> 
+<img height=400 src="choinki_2021/PiorczynskiMikolaj/xmas_tree.gif"/>
+<img height=400 src="choinki_2021/PioroAndrzej/choinka.gif"/> 
+<img height=400 src="choinki_2021/PiwkoJakub/tree.png"/> 
+<img height=400 src="choinki_2021/PrzybytniowskaJulia/XmasTree.png"/> 
+<img height=400 src="choinki_2021/RakusPatryk/choinka.png"/>
+<img height=400 src="choinki_2021/RoguskiMikolaj/tree.png"/> 
+<img height=400 src="choinki_2021/SidarovichSabina/tree.gif"/> 
+<img height=400 src="choinki_2021/SiudalskiTomasz/Choinka3D.gif"/> 
+<img height=400 src="choinki_2021/SkonieczkaKacper/choinka.png"/> 
+<img height=400 src="choinki_2021/SkowronskiDamian/choinka.gif"/> 
+<img height=400 src="choinki_2021/SkwarekJan/Rplot.png"/> 
+<img height=400 src="choinki_2021/SokolowskiJedrzej/hw7_choinka.gif"/> 
+<img height=400 src="choinki_2021/SzymonGut/output.gif"/> 
+<img height=400 src="choinki_2021/SzymplinskiFilip/Choinka.png"/>
+<img height=400 src="choinki_2021/TomaszewskiLukasz/hw7.gif"/>
+<img height=400 src="choinki_2021/TomczykMichal/choinka.png"/> 
+<img height=400 src="choinki_2021/TytkowskiDaniel/choinka.png"/> 
+<img height=400 src="choinki_2021/WilczynskiPiotr/choinka.gif"/> 
+<img height=400 src="choinki_2021/WitasMarcel/GaussTree.gif"/> 
+<img height=400 src="choinki_2021/WodnickiKrzysztof/choinka.gif"/> 
+<img height=400 src="choinki_2021/WojewodaMalwina/choinka.png"/> 
+<img height=400 src="choinki_2021/ZajkoAntoni/tree.png"/> 
+<img height=400 src="choinki_2021/ZakrzewskiGrzegorz/tree.png"/> 
+
+
+
+
 ## TWD 2020
 
 Source codes: https://github.com/mini-pw/2021Z-DataVisualizationTechniques
