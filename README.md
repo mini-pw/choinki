@@ -21,6 +21,7 @@ Source codes: https://github.com/mini-pw/2022Z-DataVisualizationTechniques
 <img height=400 src="choinki_2021/GrzegorzZbrzezny/Choinka.gif"/> 
 <img height=400 src="choinki_2021/HoangLaura/choinka.gif"/>
 <img height=400 src="choinki_2021/JakubowskiWiktor/tree.png"/>
+<img height=400 src="choinki_2021/JanKruszewski/choinka.png"/>
 <img height=400 src="choinki_2021/KajkaJoanna/choinka.png"/> 
 <img height=400 src="choinki_2021/KasprzakJakub/catmas.png"/> 
 <img height=400 src="choinki_2021/KaznowskaJulia/KaznowskaJuliaHw7Tree.gif"/>
@@ -37,10 +38,13 @@ Source codes: https://github.com/mini-pw/2022Z-DataVisualizationTechniques
 <img height=400 src="choinki_2021/MatuszewskiSzymon/XmasTree.gif"/>
 <img height=400 src="choinki_2021/MazurykMichal/choinka2.2.gif"/> 
 <img height=400 src="choinki_2021/MiszalskaNikola/choinka.gif"/> 
+<img height=400 src="choinki_2021/ModzelewskiTomasz/choinka.png"/> 
+<img height=400 src="choinki_2021/OkonekPiotr/choinka.gif"/> 
 <img height=400 src="choinki_2021/OrslowskiMaciej/tree.png"/> 
 <img height=400 src="choinki_2021/PiorczynskiMikolaj/xmas_tree.gif"/>
 <img height=400 src="choinki_2021/PioroAndrzej/choinka.gif"/> 
 <img height=400 src="choinki_2021/PiwkoJakub/tree.png"/> 
+<img height=400 src="choinki_2021/PludowskiDawid/xmasstree.png"/> 
 <img height=400 src="choinki_2021/PrzybytniowskaJulia/XmasTree.png"/> 
 <img height=400 src="choinki_2021/RakusPatryk/choinka.png"/>
 <img height=400 src="choinki_2021/RoguskiMikolaj/tree.png"/> 
