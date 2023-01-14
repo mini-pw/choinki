@@ -2,9 +2,61 @@
 
 Wykonane w ramach Technik Wizualizacji Danych
 
+
+## TWD 2022
+
+Source codes: https://github.com/MI2-Education/2023Z-DataVisualizationTechniques
+
+<img height=400 src="choinki_2022/AndryszakMateusz/Choinka.jpg"/> 
+<img height=400 src="choinki_2022/BaraniakHubert/Tree.gif"/> 
+<img height=400 src="choinki_2022/BindaMichal/Choinka.png"/>  
+<img height=400 src="choinki_2022/CharuzaAlicja/choinka_tetris.gif"/> 
+<img height=400 src="choinki_2022/GenejaMichal/choinka.png"/> 
+<img height=400 src="choinki_2022/GrabarskiLukasz/merry xmas.gif"/> 
+<img height=400 src="choinki_2022/GrabiasWojciech/choineczka.png"/> 
+<img height=400 src="choinki_2022/GrinchikGleb/xmas_tree.gif"/> 
+<img height=400 src="choinki_2022/GrzywaczewskiJakub/Drzewko.gif"/>  
+<img height=400 src="choinki_2022/IwickiMichal/choinka.png"/> 
+<img height=400 src="choinki_2022/JeczenMagdalena/choinka.gif"/> 
+<img height=400 src="choinki_2022/JurzystaBarbara/choinka.png"/> 
+<img height=400 src="choinki_2022/KapichAleks/choinka.png"/> 
+<img height=400 src="choinki_2022/KonieckoWiktoria/choinka.png"/> 
+<img height=400 src="choinki_2022/KosakowskiPiotr/choina.png"/> 
+<img height=400 src="choinki_2022/KoszKrzysztof/choineczka.png"/> 
+<img height=400 src="choinki_2022/KulczyckaAleksandra/ChristmasTree.gif"/> 
+<img height=400 src="choinki_2022/KurdekJeremi/hw7.png"/> 
+<img height=400 src="choinki_2022/KusmierzMartyna/choinka.gif"/> 
+<img height=400 src="choinki_2022/KwiecinskiTymoteusz/drzewo.png"/>  
+<img height=400 src="choinki_2022/KyrykViktoriia/choinka.png"/> 
+<img height=400 src="choinki_2022/LegczylinMichail/x-mas_tree.gif"/> 
+<img height=400 src="choinki_2022/LepiankaLukasz/Choinka.png"/> 
+<img height=400 src="choinki_2022/MaczkaKarolina/choinka.png"/> 
+<img height=400 src="choinki_2022/MrozMikolaj/choinka.png"/> 
+<img height=400 src="choinki_2022/NizwantowskiMateusz/choinka_swiateczna.jpg"/> 
+<img height=400 src="choinki_2022/OsmalekAgata/choinka.gif"/> 
+<img height=400 src="choinki_2022/PirogZuzanna/choinka.gif"/> 
+<img height=400 src="choinki_2022/RybakCezary/Rplot.png"/> 
+<img height=400 src="choinki_2022/RymarskiJakub/choinka.gif"/>  
+<img height=400 src="choinki_2022/SafiejkoNatalia/choineczkama.png"/> 
+<img height=400 src="choinki_2022/SawickiJakub/choinka.png"/> 
+<img height=400 src="choinki_2022/SawickiKrzysztof/choinka.png"/>  
+<img height=400 src="choinki_2022/SeligaJakub/choinka.png"/> 
+<img height=400 src="choinki_2022/SwiderskiPawel/Choinka.png"/>  
+<img height=400 src="choinki_2022/SzpetmanskiMaciej/choinka.png"/> 
+<img height=400 src="choinki_2022/TrojanSebastian/HW7_choinka.png"/> 
+<img height=400 src="choinki_2022/UrbanTymoteusz/christmas_tree.png"/> 
+<img height=400 src="choinki_2022/WarnoFelicja/Choinka.png"/> 
+<img height=400 src="choinki_2022/WierzchowskiWiktor/choinka.png"/> 
+<img height=400 src="choinki_2022/WnekKacper/Wesołych Swiat.png"/> 
+<img height=400 src="choinki_2022/WozniakWiktor/Choinka.png"/> 
+<img height=400 src="choinki_2022/ZarebaAdrian/choinka.png"/> 
+
+
+
+
 ## TWD 2021
 
-Source codes: https://github.com/mini-pw/2022Z-DataVisualizationTechniques
+Source codes: https://github.com/MI2-Education/2022Z-DataVisualizationTechniques
 
 
 <img height=400 src="choinki_2021/AndrzejczukMaja/choinka.png"/> 
@@ -71,7 +123,7 @@ Source codes: https://github.com/mini-pw/2022Z-DataVisualizationTechniques
 
 ## TWD 2020
 
-Source codes: https://github.com/mini-pw/2021Z-DataVisualizationTechniques
+Source codes: https://github.com/MI2-Education/2021Z-DataVisualizationTechniques
 
 
 <img height=400 src="choinki_2020/Adam_Frej/choinka.gif"/> 
